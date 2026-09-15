@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.3/NeoconHub-Setup-0.4.3.exe",
-  "sha256": "009a5fc967107429a48e0bd0d6e67dc6dca2c6a1d978d1ab9d4f5f13ffaad513",
-  "notes": "Canal público de atualizações configurado, integração de Análise de Retenções e EFD-Reinf e painel inicial simplificado."
+  "version": "0.4.4",
+  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.4/NeoconHub-Setup-0.4.4.exe",
+  "sha256": "f5349f97e68a7053e2ee629eccea4448b3b13f03bcffab79b4b84e1597aa81ff",
+  "notes": "Busca rápida de módulos, favoritos e recentes por usuário, categorias, status de disponibilidade, carregamento com timeout, nova tentativa e mensagens de erro aprimoradas."
 }
