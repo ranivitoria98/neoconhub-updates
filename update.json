@@ -1,6 +1,7 @@
 {
-  "version": "0.4.4",
-  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.4/NeoconHub-Setup-0.4.4.exe",
-  "sha256": "f5349f97e68a7053e2ee629eccea4448b3b13f03bcffab79b4b84e1597aa81ff",
-  "notes": "Busca rápida de módulos, favoritos e recentes por usuário, categorias, status de disponibilidade, carregamento com timeout, nova tentativa e mensagens de erro aprimoradas."
+  "version": "0.4.5",
+  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.5/NeoconHub-Setup-0.4.5.exe",
+  "sha256": "17ac6b71c96fdf2b57899c02908f822bc9d406c65053b1c5c5ff984abafcefaf",
+  "notes": "Atualização do NEOCON HUB.",
+  "signature": "cG343ytrMrtNx0SaRy68bOXQZfYZ0IoJsNjHFLhog6XtoIaV/Myn1pW8Yk/4EO7XlUUFwCoKScgJGWPzrs4eCg=="
 }
