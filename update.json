@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
-  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.5/NeoconHub-Setup-0.4.5.exe",
-  "sha256": "17ac6b71c96fdf2b57899c02908f822bc9d406c65053b1c5c5ff984abafcefaf",
-  "notes": "Atualização do NEOCON HUB.",
-  "signature": "cG343ytrMrtNx0SaRy68bOXQZfYZ0IoJsNjHFLhog6XtoIaV/Myn1pW8Yk/4EO7XlUUFwCoKScgJGWPzrs4eCg=="
+  "version": "0.4.6",
+  "installer_url": "https://github.com/ranivitoria98/neoconhub-updates/releases/download/v0.4.6/NeoconHub-Setup-0.4.6.exe",
+  "sha256": "ab7320a358960e95004d085e28f03aef62357de320b1bb17a9c40e3f885052d2",
+  "notes": "Integra a Conciliação Bancária Neocon, habilita os módulos web oficiais e inclui melhorias visuais e de estabilidade.",
+  "signature": "PR8MSKkIP9f7Qj6iCUwtNbHi3kLf8K2idFLkZvDjU+O1/6AzGWk64wPI6dzKkLG+w1if7xkib5UIlUnNskVsDw=="
 }
